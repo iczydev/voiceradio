@@ -1,0 +1,15 @@
+{
+  "name": "voiceRadio",
+  "version": "0.0.1",
+  "description": "Real audio record + playback + radio transfer for micro:bit V2",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts",
+    "voice.cpp",
+    "voice.h"
+  ],
+  "public": true
+}
